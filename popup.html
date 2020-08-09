@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <style>
+      * {
+        background-color: #292929;
+      }
+      label {
+        font-family: Montserrat;
+        color: #adadad;
+      }
+      .popup {
+        width: 200px;
+        height: auto;
+      }
+
+      .button {
+        font-family: montserrat;
+      }
+
+      .color {
+        border: none;
+      }
+
+      a:link, a:visited {
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+}
+    </style>
+  </head>
+  <body>
+    <div class="popup">
+      <label for="thumb">Color of thumb:</label>
+      <input type="color" name="thumb" id="thumb" class="color"/><br />
+      <label for="tbar">Color of bar:</label>
+      <input type="color" name="bar" id="bar" class="color" /><br />
+      <label for="width">Width:</label>
+      <input type="range" id="width" name="width" min="0" max="100" />
+      <label for="radius">Border radius:</label><br>
+      <input type="range" id="radius" name="radius" min="0" max="100" /><br>
+      <button id="apply" style="color: white">Apply</button>
+      <button id="reset" style="color: white">Reset</button>
+      <button><a href="https://sujal-goel.netlify.app/" target="www.google.com">Visit the author</a></button>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
