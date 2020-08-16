@@ -3,7 +3,7 @@
 
 # Installation
 -  Install all the files from [here](https://github.com/sujal-ops-cyber/SOCBAR/archive/master.zip)!
--  Now, extract that zip file to a safe/permanent location in your Laptop or Dekstop.
+-  Now, extract that zip file to a safe location in your Laptop or Dekstop.
 -  Then, go to `chrome://extensions/` and enable developer mode i.e. on the top right corner.
 -  This will allow you to add external chrome extensions.
 -  Now, click on `Load unpacked` button and select the `SOCBAR` folder.
