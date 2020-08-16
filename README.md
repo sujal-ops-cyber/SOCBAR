@@ -13,7 +13,7 @@
 -  There is a symbol like this ![](images/extension.png)
 -  Just click on that symbol and it will open a menu.
 -  Now, find the extension `SOCBAR` and click on it!
--  This will show you a menu of customizing your scroll bar...
+-  This will show you a menu for customizing your scroll bar...
 
 ## Note
 -  You can disable the option `Collect errors` in `chrome://extenstion` for better functioning of `SOCBAR`!
